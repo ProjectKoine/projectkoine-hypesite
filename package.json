@@ -1,0 +1,22 @@
+{
+  "name": "projectkoine-hypesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectKoine/projectkoine-hypesite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjectKoine/projectkoine-hypesite/issues"
+  },
+  "homepage": "https://github.com/ProjectKoine/projectkoine-hypesite#readme",
+  "dependencies": {
+    "three.js": "^0.77.1"
+  }
+}
